@@ -1,4 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=keshav-bohr)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=keshav-bohr)-->
 
 Some of the major contributions :-
 - Microsoft VsCode (https://code.visualstudio.com/updates/v1_47)
