@@ -1,3 +1,5 @@
+[![An image of @keshavbohr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshavbohr)](https://holopin.io/@keshavbohr)
+
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=keshav-bohr)-->
 
 Some of the major contributions :-
