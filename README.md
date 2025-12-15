@@ -5,7 +5,7 @@
 Some of the major contributions :-
 - Microsoft VsCode (https://code.visualstudio.com/updates/v1_47)
 - Uber base web design (https://baseweb.design/)
-- Chakra UI (https://chakra-ui.com/team)
+- Chakra UI (https://github.com/chakra-ui/chakra-ui/pull/2222)
 
 <!--
 **keshav-bohr/keshav-bohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
