@@ -4,7 +4,7 @@
 
 Some of the major contributions :-
 - Microsoft VsCode (https://code.visualstudio.com/updates/v1_47)
-- Uber base web design (https://baseweb.design/)
+- Uber base web design (https://github.com/uber/baseweb/pull/2722)
 - Chakra UI (https://github.com/chakra-ui/chakra-ui/pull/2222)
 
 <!--
